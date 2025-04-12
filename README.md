@@ -9,3 +9,8 @@ This project is dual-licensed:
 - The **metadata sourced from the Balatro Wiki** is licensed under CC-BY-SA 4.0 (see CC-BY-SA-4.0-LICENSE file).  
 
 Attribution: This project includes metadata derived from the Balatro Wiki (https://balatrogame.fandom.com/wiki/Balatro_Wiki), which is licensed under CC-BY-SA 4.0.  
+
+---
+☕ If this project helped you or you'd like to support future work, [buy me a Ko-fi](https://ko-fi.com/napkimmath)!
+
+Or just drop a ⭐ and say hi! 😊
