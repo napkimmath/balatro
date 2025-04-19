@@ -5,7 +5,7 @@ the second joins to the tag reference table to bring back the description as wel
 */
 
 SELECT tag_name, count(*) AS count_of_tags
-FROM `napkim-math.played_data.round`
+FROM `napkim-math.played_data_views.bqv_round`
 WHERE blind_name is not null
 AND tag_name is not null
 GROUP BY ALL
@@ -13,7 +13,7 @@ ORDER BY 2 desc, 1 asc
 ;
 
 SELECT r.tag_name, t.tag_benefit, count(*) AS count_of_tags
-FROM `napkim-math.played_data.round` AS r
+FROM `napkim-math.played_data_views.bqv_round` AS r
 INNER JOIN `reference_tables.tag_reference` t
 USING (tag_name)
 WHERE r.blind_name is not null
