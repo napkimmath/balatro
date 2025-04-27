@@ -15,6 +15,10 @@ I also want to highlight some of the resources I use and reference:
 - Reddit posts on wheel of fortune tracking: [post 1](https://www.reddit.com/r/balatro/comments/1faqwsr/ive_finally_proven_it_wheel_of_fortune_does_in/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [post 2](https://www.reddit.com/r/balatro/comments/1gwkol9/a_study_on_the_probability_of_wheel_of_fortune/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [post 3](https://www.reddit.com/r/balatro/comments/1jl5gb0/i_rolled_144000_wheel_of_fortunes_to_figure_out/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ---
+
+You can contact me by [starting a discussion](https://github.com/napkimmath/napkimmath/discussions) right here on GitHub! 
+
+---
 ☕ If this project helped you or you'd like to support future work, [buy me a Ko-fi](https://ko-fi.com/napkimmath)!
 
 Or just drop a ⭐ and say hi! 😊
